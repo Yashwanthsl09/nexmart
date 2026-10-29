@@ -1,0 +1,1226 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+      "price": 109.95,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_t.png",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": "2",
+      "title": "Mens Casual Premium Slim Fit T-Shirts ",
+      "price": 22.3,
+      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_t.png",
+      "rating": {
+        "rate": 4.1,
+        "count": 259
+      }
+    },
+    {
+      "id": "3",
+      "title": "Mens Cotton Jacket",
+      "price": 55.99,
+      "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_t.png",
+      "rating": {
+        "rate": 4.7,
+        "count": 500
+      }
+    },
+    {
+      "id": "4",
+      "title": "Mens Casual Slim Fit",
+      "price": 15.99,
+      "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_t.png",
+      "rating": {
+        "rate": 2.1,
+        "count": 430
+      }
+    },
+    {
+      "id": "5",
+      "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+      "price": 695,
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_t.png",
+      "rating": {
+        "rate": 4.6,
+        "count": 400
+      }
+    },
+    {
+      "id": "6",
+      "title": "Solid Gold Petite Micropave ",
+      "price": 168,
+      "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_t.png",
+      "rating": {
+        "rate": 3.9,
+        "count": 70
+      }
+    },
+    {
+      "id": "7",
+      "title": "White Gold Plated Princess",
+      "price": 9.99,
+      "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_t.png",
+      "rating": {
+        "rate": 3,
+        "count": 400
+      }
+    },
+    {
+      "id": "8",
+      "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+      "price": 10.99,
+      "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_t.png",
+      "rating": {
+        "rate": 1.9,
+        "count": 100
+      }
+    },
+    {
+      "id": "9",
+      "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
+      "price": 64,
+      "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_t.png",
+      "rating": {
+        "rate": 3.3,
+        "count": 203
+      }
+    },
+    {
+      "id": "10",
+      "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+      "price": 109,
+      "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_t.png",
+      "rating": {
+        "rate": 2.9,
+        "count": 470
+      }
+    },
+    {
+      "id": "11",
+      "title": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
+      "price": 109,
+      "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_t.png",
+      "rating": {
+        "rate": 4.8,
+        "count": 319
+      }
+    },
+    {
+      "id": "12",
+      "title": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+      "price": 114,
+      "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_t.png",
+      "rating": {
+        "rate": 4.8,
+        "count": 400
+      }
+    },
+    {
+      "id": "13",
+      "title": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+      "price": 599,
+      "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16. 7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_t.png",
+      "rating": {
+        "rate": 2.9,
+        "count": 250
+      }
+    },
+    {
+      "id": "15",
+      "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+      "price": 56.99,
+      "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_t.png",
+      "rating": {
+        "rate": 2.6,
+        "count": 235
+      }
+    },
+    {
+      "id": "16",
+      "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+      "price": 29.95,
+      "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_t.png",
+      "rating": {
+        "rate": 2.9,
+        "count": 340
+      }
+    },
+    {
+      "id": "17",
+      "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+      "price": 39.99,
+      "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2t.png",
+      "rating": {
+        "rate": 3.8,
+        "count": 679
+      }
+    },
+    {
+      "id": "18",
+      "title": "MBJ Women's Solid Short Sleeve Boat Neck V ",
+      "price": 9.85,
+      "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_t.png",
+      "rating": {
+        "rate": 4.7,
+        "count": 130
+      }
+    },
+    {
+      "id": "19",
+      "title": "Opna Women's Short Sleeve Moisture",
+      "price": 7.95,
+      "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_t.png",
+      "rating": {
+        "rate": 4.5,
+        "count": 146
+      }
+    },
+    {
+      "id": "20",
+      "title": "DANVOUY Womens T Shirt Casual Cotton Short",
+      "price": 12.99,
+      "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_t.png",
+      "rating": {
+        "rate": 3.6,
+        "count": 145
+      }
+    },
+    {
+      "id": "21",
+      "title": "Wireless Bluetooth Headphones",
+      "price": 49.99,
+      "description": "Wireless headphones with clear sound, comfortable ear cushions, and a long-lasting battery.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_t.png",
+      "rating": {
+        "rate": 4.7,
+        "count": 177
+      }
+    },
+    {
+      "id": "22",
+      "title": "Smartphone 128GB",
+      "price": 299.99,
+      "description": "A stylish smartphone with a bright display, capable camera, and dependable everyday performance.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_t.png",
+      "rating": {
+        "rate": 3.9,
+        "count": 214
+      }
+    },
+    {
+      "id": "23",
+      "title": "Portable Bluetooth Speaker",
+      "price": 39.99,
+      "description": "A compact speaker designed for music at home, outdoors, and while travelling.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_t.png",
+      "rating": {
+        "rate": 4.6,
+        "count": 251
+      }
+    },
+    {
+      "id": "24",
+      "title": "USB-C Fast Charger",
+      "price": 19.99,
+      "description": "A compact fast charger for compatible phones, tablets, and other USB-C devices.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_t.png",
+      "rating": {
+        "rate": 3.8,
+        "count": 288
+      }
+    },
+    {
+      "id": "25",
+      "title": "Wireless Mouse",
+      "price": 24.99,
+      "description": "An ergonomic wireless mouse suitable for work, study, and everyday browsing.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_t.png",
+      "rating": {
+        "rate": 4.5,
+        "count": 325
+      }
+    },
+    {
+      "id": "26",
+      "title": "Mechanical Gaming Keyboard",
+      "price": 69.99,
+      "description": "A responsive keyboard designed for gaming, typing, and desktop setups.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_t.png",
+      "rating": {
+        "rate": 3.7,
+        "count": 362
+      }
+    },
+    {
+      "id": "27",
+      "title": "Full HD Webcam",
+      "price": 44.99,
+      "description": "A webcam for video calls, online classes, meetings, and streaming.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_t.png",
+      "rating": {
+        "rate": 4.4,
+        "count": 399
+      }
+    },
+    {
+      "id": "28",
+      "title": "Laptop Sleeve 15 Inch",
+      "price": 18.99,
+      "description": "A protective sleeve designed to help keep a compatible laptop safe while travelling.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_t.png",
+      "rating": {
+        "rate": 3.6,
+        "count": 436
+      }
+    },
+    {
+      "id": "29",
+      "title": "Smart Watch",
+      "price": 89.99,
+      "description": "A versatile smartwatch for checking notifications, tracking activity, and everyday use.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_t.png",
+      "rating": {
+        "rate": 4.3,
+        "count": 473
+      }
+    },
+    {
+      "id": "30",
+      "title": "Power Bank 20000mAh",
+      "price": 34.99,
+      "description": "A portable power bank for charging compatible devices while away from a wall outlet.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_t.png",
+      "rating": {
+        "rate": 3.5,
+        "count": 510
+      }
+    },
+    {
+      "id": "31",
+      "title": "Gaming Controller",
+      "price": 54.99,
+      "description": "A comfortable controller for compatible gaming systems and supported games.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_t.png",
+      "rating": {
+        "rate": 4.2,
+        "count": 547
+      }
+    },
+    {
+      "id": "32",
+      "title": "LED Desk Lamp",
+      "price": 27.99,
+      "description": "A desk lamp providing practical lighting for reading, studying, and working.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_t.png",
+      "rating": {
+        "rate": 4.9,
+        "count": 584
+      }
+    },
+    {
+      "id": "33",
+      "title": "External SSD 1TB",
+      "price": 119.99,
+      "description": "Portable solid-state storage for backing up files and transferring documents.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_t.png",
+      "rating": {
+        "rate": 4.1,
+        "count": 621
+      }
+    },
+    {
+      "id": "34",
+      "title": "Wireless Earbuds",
+      "price": 59.99,
+      "description": "Compact wireless earbuds for music, calls, and listening on the go.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_t.png",
+      "rating": {
+        "rate": 4.8,
+        "count": 658
+      }
+    },
+    {
+      "id": "35",
+      "title": "27 Inch Computer Monitor",
+      "price": 229.99,
+      "description": "A large monitor suitable for productivity, entertainment, and everyday computing.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_t.png",
+      "rating": {
+        "rate": 4,
+        "count": 695
+      }
+    },
+    {
+      "id": "36",
+      "title": "Tablet 10 Inch",
+      "price": 199.99,
+      "description": "A portable tablet for reading, video streaming, browsing, and compatible apps.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_t.png",
+      "rating": {
+        "rate": 4.7,
+        "count": 82
+      }
+    },
+    {
+      "id": "37",
+      "title": "Digital Camera",
+      "price": 449.99,
+      "description": "A digital camera for capturing travel, family, and everyday moments.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_t.png",
+      "rating": {
+        "rate": 3.9,
+        "count": 119
+      }
+    },
+    {
+      "id": "38",
+      "title": "Router Dual Band Wi-Fi",
+      "price": 64.99,
+      "description": "A dual-band router designed to provide wireless connectivity for compatible devices.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_t.png",
+      "rating": {
+        "rate": 4.6,
+        "count": 156
+      }
+    },
+    {
+      "id": "39",
+      "title": "USB Flash Drive 128GB",
+      "price": 16.99,
+      "description": "Portable storage for transferring documents, photos, and other files.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_t.png",
+      "rating": {
+        "rate": 3.8,
+        "count": 193
+      }
+    },
+    {
+      "id": "40",
+      "title": "Laptop Stand Adjustable",
+      "price": 29.99,
+      "description": "An adjustable stand that helps position a laptop at a more comfortable viewing height.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_t.png",
+      "rating": {
+        "rate": 4.5,
+        "count": 230
+      }
+    },
+    {
+      "id": "41",
+      "title": "Men's Casual Cotton Shirt",
+      "price": 24.99,
+      "description": "A versatile cotton shirt for casual outings, everyday wear, and relaxed occasions.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_t.png",
+      "rating": {
+        "rate": 3.7,
+        "count": 267
+      }
+    },
+    {
+      "id": "42",
+      "title": "Men's Slim Fit Jeans",
+      "price": 39.99,
+      "description": "Classic slim-fit jeans designed to pair with casual shirts, tees, and sneakers.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_t.png",
+      "rating": {
+        "rate": 4.4,
+        "count": 304
+      }
+    },
+    {
+      "id": "43",
+      "title": "Men's Lightweight Hoodie",
+      "price": 32.99,
+      "description": "A comfortable hoodie for layering on cool days and relaxed weekends.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_t.png",
+      "rating": {
+        "rate": 3.6,
+        "count": 341
+      }
+    },
+    {
+      "id": "44",
+      "title": "Men's Running Shoes",
+      "price": 59.99,
+      "description": "Lightweight everyday running shoes for walking, workouts, and casual use.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_t.png",
+      "rating": {
+        "rate": 4.3,
+        "count": 378
+      }
+    },
+    {
+      "id": "45",
+      "title": "Men's Casual Sneakers",
+      "price": 44.99,
+      "description": "Versatile sneakers that complement everyday outfits.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_t.png",
+      "rating": {
+        "rate": 3.5,
+        "count": 415
+      }
+    },
+    {
+      "id": "46",
+      "title": "Men's Formal Belt",
+      "price": 17.99,
+      "description": "A classic belt suitable for office wear and formal occasions.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_t.png",
+      "rating": {
+        "rate": 4.2,
+        "count": 452
+      }
+    },
+    {
+      "id": "47",
+      "title": "Men's Winter Jacket",
+      "price": 79.99,
+      "description": "A practical outer layer for cool weather and everyday outdoor use.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_t.png",
+      "rating": {
+        "rate": 4.9,
+        "count": 489
+      }
+    },
+    {
+      "id": "48",
+      "title": "Men's Polo T-Shirt",
+      "price": 21.99,
+      "description": "A smart-casual polo shirt suitable for weekends and relaxed office settings.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_t.png",
+      "rating": {
+        "rate": 4.1,
+        "count": 526
+      }
+    },
+    {
+      "id": "49",
+      "title": "Men's Sports Shorts",
+      "price": 18.99,
+      "description": "Lightweight shorts designed for exercise, training, and casual comfort.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_t.png",
+      "rating": {
+        "rate": 4.8,
+        "count": 563
+      }
+    },
+    {
+      "id": "50",
+      "title": "Men's Backpack",
+      "price": 35.99,
+      "description": "An everyday backpack with space for essentials, books, and compatible devices.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_t.png",
+      "rating": {
+        "rate": 4,
+        "count": 600
+      }
+    },
+    {
+      "id": "51",
+      "title": "Women's Floral Dress",
+      "price": 42.99,
+      "description": "A floral dress suitable for casual outings, gatherings, and warm-weather days.",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_t.png",
+      "rating": {
+        "rate": 4.7,
+        "count": 637
+      }
+    },
+    {
+      "id": "52",
+      "title": "Women's Denim Jacket",
+      "price": 48.99,
+      "description": "A versatile denim jacket that works well as a lightweight layering piece.",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_t.png",
+      "rating": {
+        "rate": 3.9,
+        "count": 674
+      }
+    },
+    {
+      "id": "53",
+      "title": "Women's Running Leggings",
+      "price": 26.99,
+      "description": "Stretchy leggings designed for workouts, walking, and everyday comfort.",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2t.png",
+      "rating": {
+        "rate": 4.6,
+        "count": 61
+      }
+    },
+    {
+      "id": "54",
+      "title": "Women's Casual Sneakers",
+      "price": 46.99,
+      "description": "Comfortable sneakers for daily errands, travel, and casual outfits.",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_t.png",
+      "rating": {
+        "rate": 3.8,
+        "count": 98
+      }
+    },
+    {
+      "id": "55",
+      "title": "Women's Knit Sweater",
+      "price": 36.99,
+      "description": "A soft knit sweater for layering during cooler weather.",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_t.png",
+      "rating": {
+        "rate": 4.5,
+        "count": 135
+      }
+    },
+    {
+      "id": "56",
+      "title": "Women's Handbag",
+      "price": 54.99,
+      "description": "A practical handbag for carrying everyday essentials in a stylish design.",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_t.png",
+      "rating": {
+        "rate": 3.7,
+        "count": 172
+      }
+    },
+    {
+      "id": "57",
+      "title": "Women's Summer Top",
+      "price": 19.99,
+      "description": "A lightweight top that pairs easily with jeans, skirts, and shorts.",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_t.png",
+      "rating": {
+        "rate": 4.4,
+        "count": 209
+      }
+    },
+    {
+      "id": "58",
+      "title": "Women's Winter Coat",
+      "price": 89.99,
+      "description": "A warm outer layer designed for cool days and seasonal outfits.",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_t.png",
+      "rating": {
+        "rate": 3.6,
+        "count": 246
+      }
+    },
+    {
+      "id": "59",
+      "title": "Women's Yoga Pants",
+      "price": 28.99,
+      "description": "Flexible pants suitable for yoga, stretching, workouts, and lounging.",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2t.png",
+      "rating": {
+        "rate": 4.3,
+        "count": 283
+      }
+    },
+    {
+      "id": "60",
+      "title": "Women's Casual T-Shirt",
+      "price": 14.99,
+      "description": "A soft everyday T-shirt designed for easy, comfortable styling.",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_t.png",
+      "rating": {
+        "rate": 3.5,
+        "count": 320
+      }
+    },
+    {
+      "id": "61",
+      "title": "Minimalist Pendant Necklace",
+      "price": 29.99,
+      "description": "A simple pendant necklace suitable for everyday outfits and thoughtful gifts.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_t.png",
+      "rating": {
+        "rate": 4.2,
+        "count": 357
+      }
+    },
+    {
+      "id": "62",
+      "title": "Silver Hoop Earrings",
+      "price": 18.99,
+      "description": "Classic hoop earrings designed to complement both casual and dressy looks.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_t.png",
+      "rating": {
+        "rate": 4.9,
+        "count": 394
+      }
+    },
+    {
+      "id": "63",
+      "title": "Gold Plated Chain Necklace",
+      "price": 34.99,
+      "description": "A decorative chain necklace that adds a polished accent to an outfit.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_t.png",
+      "rating": {
+        "rate": 4.1,
+        "count": 431
+      }
+    },
+    {
+      "id": "64",
+      "title": "Stainless Steel Bracelet",
+      "price": 22.99,
+      "description": "A simple stainless-steel bracelet for everyday wear.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_t.png",
+      "rating": {
+        "rate": 4.8,
+        "count": 468
+      }
+    },
+    {
+      "id": "65",
+      "title": "Crystal Drop Earrings",
+      "price": 26.99,
+      "description": "Drop earrings with a crystal-inspired finish for occasions and evening outfits.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_t.png",
+      "rating": {
+        "rate": 4,
+        "count": 505
+      }
+    },
+    {
+      "id": "66",
+      "title": "Classic Analog Watch",
+      "price": 79.99,
+      "description": "A classic analog-style watch designed to complement everyday and formal clothing.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_t.png",
+      "rating": {
+        "rate": 4.7,
+        "count": 542
+      }
+    },
+    {
+      "id": "67",
+      "title": "Pearl Stud Earrings",
+      "price": 16.99,
+      "description": "Timeless pearl-style studs suitable for daily wear and special occasions.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_t.png",
+      "rating": {
+        "rate": 3.9,
+        "count": 579
+      }
+    },
+    {
+      "id": "68",
+      "title": "Adjustable Ring Set",
+      "price": 21.99,
+      "description": "A set of decorative rings designed to mix and match with different outfits.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_t.png",
+      "rating": {
+        "rate": 4.6,
+        "count": 616
+      }
+    },
+    {
+      "id": "69",
+      "title": "Charm Bracelet",
+      "price": 24.99,
+      "description": "A decorative charm bracelet that can add personality to casual outfits.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_t.png",
+      "rating": {
+        "rate": 3.8,
+        "count": 653
+      }
+    },
+    {
+      "id": "70",
+      "title": "Heart Pendant Gift Set",
+      "price": 31.99,
+      "description": "A heart-themed jewelry set suitable for birthdays, celebrations, and gifting.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_t.png",
+      "rating": {
+        "rate": 4.5,
+        "count": 690
+      }
+    },
+    {
+      "id": "71",
+      "title": "Smart TV 43 Inch",
+      "price": 329.99,
+      "description": "A smart television for streaming, compatible apps, and home entertainment.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_t.png",
+      "rating": {
+        "rate": 3.7,
+        "count": 77
+      }
+    },
+    {
+      "id": "72",
+      "title": "Gaming Headset",
+      "price": 74.99,
+      "description": "An over-ear headset designed for gaming audio and voice communication.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_t.png",
+      "rating": {
+        "rate": 4.4,
+        "count": 114
+      }
+    },
+    {
+      "id": "73",
+      "title": "Graphics Tablet",
+      "price": 89.99,
+      "description": "A digital drawing tablet for illustration, note-taking, and creative workflows.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_t.png",
+      "rating": {
+        "rate": 3.6,
+        "count": 151
+      }
+    },
+    {
+      "id": "74",
+      "title": "All-in-One Printer",
+      "price": 139.99,
+      "description": "A multifunction printer for everyday home and small-office document tasks.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_t.png",
+      "rating": {
+        "rate": 4.3,
+        "count": 188
+      }
+    },
+    {
+      "id": "75",
+      "title": "Laptop Cooling Pad",
+      "price": 25.99,
+      "description": "A laptop cooling pad designed to improve airflow around compatible laptops.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_t.png",
+      "rating": {
+        "rate": 3.5,
+        "count": 225
+      }
+    },
+    {
+      "id": "76",
+      "title": "Car Phone Holder",
+      "price": 14.99,
+      "description": "A phone holder for convenient viewing when installed and used safely in a vehicle.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_t.png",
+      "rating": {
+        "rate": 4.2,
+        "count": 262
+      }
+    },
+    {
+      "id": "77",
+      "title": "Action Camera",
+      "price": 159.99,
+      "description": "A compact camera for recording outdoor activities and travel adventures.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_t.png",
+      "rating": {
+        "rate": 4.9,
+        "count": 299
+      }
+    },
+    {
+      "id": "78",
+      "title": "MicroSD Card 256GB",
+      "price": 29.99,
+      "description": "Removable storage for compatible phones, cameras, and other supported devices.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_t.png",
+      "rating": {
+        "rate": 4.1,
+        "count": 336
+      }
+    },
+    {
+      "id": "79",
+      "title": "Smart Home Plug",
+      "price": 21.99,
+      "description": "A connected plug for controlling compatible appliances with a supported smart-home setup.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_t.png",
+      "rating": {
+        "rate": 4.8,
+        "count": 373
+      }
+    },
+    {
+      "id": "80",
+      "title": "Noise Cancelling Headphones",
+      "price": 99.99,
+      "description": "Over-ear headphones designed for comfortable listening and reduced ambient noise.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_t.png",
+      "rating": {
+        "rate": 4,
+        "count": 410
+      }
+    },
+    {
+      "id": "81",
+      "title": "Men's Linen Shirt",
+      "price": 29.99,
+      "description": "A lightweight linen-blend shirt for warm weather and relaxed occasions.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_t.png",
+      "rating": {
+        "rate": 4.7,
+        "count": 447
+      }
+    },
+    {
+      "id": "82",
+      "title": "Men's Chino Trousers",
+      "price": 34.99,
+      "description": "Smart-casual trousers that pair well with shirts, polos, and everyday footwear.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_t.png",
+      "rating": {
+        "rate": 3.9,
+        "count": 484
+      }
+    },
+    {
+      "id": "83",
+      "title": "Men's Zip-Up Sweatshirt",
+      "price": 31.99,
+      "description": "A comfortable zip-up layer for travel, walks, and relaxed days.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_t.png",
+      "rating": {
+        "rate": 4.6,
+        "count": 521
+      }
+    },
+    {
+      "id": "84",
+      "title": "Men's Training T-Shirt",
+      "price": 16.99,
+      "description": "A breathable-feel training tee for gym sessions and active routines.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_t.png",
+      "rating": {
+        "rate": 3.8,
+        "count": 558
+      }
+    },
+    {
+      "id": "85",
+      "title": "Men's Canvas Shoes",
+      "price": 27.99,
+      "description": "Everyday canvas shoes with a simple design for casual wear.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_t.png",
+      "rating": {
+        "rate": 4.5,
+        "count": 595
+      }
+    },
+    {
+      "id": "86",
+      "title": "Women's Pleated Skirt",
+      "price": 32.99,
+      "description": "A pleated skirt that can be styled for work, outings, and special occasions.",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_t.png",
+      "rating": {
+        "rate": 3.7,
+        "count": 632
+      }
+    },
+    {
+      "id": "87",
+      "title": "Women's Cardigan",
+      "price": 38.99,
+      "description": "A versatile cardigan for layering over tops and dresses.",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_t.png",
+      "rating": {
+        "rate": 4.4,
+        "count": 669
+      }
+    },
+    {
+      "id": "88",
+      "title": "Women's Crossbody Bag",
+      "price": 41.99,
+      "description": "A compact crossbody bag for carrying everyday essentials hands-free.",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_t.png",
+      "rating": {
+        "rate": 3.6,
+        "count": 56
+      }
+    },
+    {
+      "id": "89",
+      "title": "Women's Sports Bra",
+      "price": 23.99,
+      "description": "A supportive-style sports bra for workouts and active days.",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2t.png",
+      "rating": {
+        "rate": 4.3,
+        "count": 93
+      }
+    },
+    {
+      "id": "90",
+      "title": "Women's Wide-Leg Trousers",
+      "price": 35.99,
+      "description": "Relaxed wide-leg trousers for comfortable everyday and smart-casual outfits.",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_t.png",
+      "rating": {
+        "rate": 3.5,
+        "count": 130
+      }
+    },
+    {
+      "id": "91",
+      "title": "Women's Rain Jacket",
+      "price": 49.99,
+      "description": "A lightweight rain jacket for changing weather and outdoor commutes.",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_t.png",
+      "rating": {
+        "rate": 4.2,
+        "count": 167
+      }
+    },
+    {
+      "id": "92",
+      "title": "Women's Ballet Flats",
+      "price": 28.99,
+      "description": "Simple flats designed to complement workwear and casual outfits.",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_t.png",
+      "rating": {
+        "rate": 4.9,
+        "count": 204
+      }
+    },
+    {
+      "id": "93",
+      "title": "Women's Denim Jeans",
+      "price": 37.99,
+      "description": "Everyday denim jeans designed for versatile casual styling.",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_t.png",
+      "rating": {
+        "rate": 4.1,
+        "count": 241
+      }
+    },
+    {
+      "id": "94",
+      "title": "Women's Scarf",
+      "price": 15.99,
+      "description": "A soft accessory that adds an extra layer and a finishing touch to outfits.",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_t.png",
+      "rating": {
+        "rate": 4.8,
+        "count": 278
+      }
+    },
+    {
+      "id": "95",
+      "title": "Rose Gold Bracelet",
+      "price": 27.99,
+      "description": "A rose-gold-tone bracelet for everyday styling and gifting.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_t.png",
+      "rating": {
+        "rate": 4,
+        "count": 315
+      }
+    },
+    {
+      "id": "96",
+      "title": "Geometric Stud Earrings",
+      "price": 14.99,
+      "description": "Minimal geometric earrings designed for simple, modern looks.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_t.png",
+      "rating": {
+        "rate": 4.7,
+        "count": 352
+      }
+    },
+    {
+      "id": "97",
+      "title": "Layered Chain Necklace",
+      "price": 32.99,
+      "description": "A layered necklace design that adds detail to casual and evening outfits.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_t.png",
+      "rating": {
+        "rate": 3.9,
+        "count": 389
+      }
+    },
+    {
+      "id": "98",
+      "title": "Engraved Style Pendant",
+      "price": 25.99,
+      "description": "A decorative pendant necklace with a timeless, gift-friendly look.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_t.png",
+      "rating": {
+        "rate": 4.6,
+        "count": 426
+      }
+    },
+    {
+      "id": "99",
+      "title": "Cuff Bracelet",
+      "price": 23.99,
+      "description": "A cuff-style bracelet that adds a clean accent to everyday outfits.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_t.png",
+      "rating": {
+        "rate": 3.8,
+        "count": 463
+      }
+    },
+    {
+      "id": "100",
+      "title": "Stackable Band Rings",
+      "price": 19.99,
+      "description": "Stackable decorative bands for creating a personalized jewelry combination.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_t.png",
+      "rating": {
+        "rate": 4.5,
+        "count": 500
+      }
+    },
+    {
+      "title": "watch's",
+      "price": 12,
+      "description": "The visual centrepiece is a deep blue dial featuring a unique, concentric rippled texture that creates dynamic light reflections, paired with fine silver indices and vibrant lime-yellow hands for a striking contrast. Boasting an ultra-slim 46.10 mm x 40.50 mm x 6.05 mm round metal case, it sits weightlessly on the wrist.",
+      "category": "electronics",
+      "image": "https://www.sonatawatches.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw7b993993/images/Sonata/Catalog/7152QM01_1.jpg?sw=600&sh=600",
+      "rating": {
+        "rate": 4.2,
+        "count": 120
+      },
+      "id": "vUjTqyY_9Bw"
+    }
+  ],
+  "users": [
+    {
+      "id": "RkitkNo9LyI",
+      "username": "a",
+      "contact": "89412244",
+      "email": "Yashu@gmail.com",
+      "password": "y",
+      "dob": "2026-10-11",
+      "place": "sira",
+      "": "Admin123"
+    },
+    {
+      "username": "admin@gmail.com",
+      "contact": "5555555555",
+      "email": "jannugowda03@gmail.com",
+      "password": "Admin123",
+      "dob": "2026-10-04",
+      "place": "sira",
+      "id": "msiAENTjrIQ"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
